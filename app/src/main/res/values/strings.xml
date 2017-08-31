@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">PullToRefreshExample</string>
+    <string-array name="cityNames">
+        <item>Bruges </item>
+        <item>Budapest </item>
+        <item>Rome</item>
+        <item>Florence</item>
+        <item>Amsterdam</item>
+        <item> Rio de Janeiro</item>
+        <item>Prague</item>
+        <item>Paris</item>
+        <item>Venice</item>
+        <item>Hong Kong</item>
+        <item>Istanbul</item>
+        <item>New York</item>
+        <item>London</item>
+        </string-array>
+</resources>
